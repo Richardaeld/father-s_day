@@ -1,0 +1,122 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Class Styles */
+
+table.bar2 {
+	border-width: 3px 3px 3px 3px;
+	border-spacing: 3px;
+	border-style: double double double double;
+	border-color: rgb(153, 0, 0) rgb(153, 0, 0) rgb(153, 0, 0) rgb(153, 0, 0);
+	border-collapse: separate;
+	background-color: rgb(0, 0, 0);
+}
+table.bar2 th {
+	border-width: 3px 3px 3px 3px;
+	padding: 1px 1px 1px 1px;
+	border-style: inset inset inset inset;
+	border-color: rgb(153, 0, 0) rgb(153, 0, 0) rgb(153, 0, 0) rgb(153, 0, 0);
+	background-color: rgb(0, 0, 0);
+	-moz-border-radius: 0px 0px 0px 0px;
+}
+table.bar2 td {
+	border-width: 3px 3px 3px 3px;
+	padding: 1px 1px 1px 1px;
+	border-style: inset inset inset inset;
+	border-color: rgb(153, 0, 0) rgb(153, 0, 0) rgb(153, 0, 0) rgb(153, 0, 0);
+	background-color: rgb(0, 0, 0);
+	-moz-border-radius: 0px 0px 0px 0px;
+}
+
+table.bar1 {
+	border-width: 3px 3px 3px 3px;
+	border-spacing: 3px;
+	border-style: double double double double;
+	border-color: rgb(153, 0, 0) rgb(153, 0, 0) rgb(153, 0, 0) rgb(153, 0, 0);
+	border-collapse: separate;
+	background-color: rgb(0, 0, 0);
+}
+table.bar1 th {
+	border-width: 3px 3px 3px 3px;
+	padding: 1px 1px 1px 1px;
+	border-style: outset outset outset outset;
+	border-color: rgb(153, 0, 0) rgb(153, 0, 0) rgb(153, 0, 0) rgb(153, 0, 0);
+	background-color: rgb(0, 0, 0);
+	-moz-border-radius: 0px 0px 0px 0px;
+}
+table.bar1 td {
+	border-width: 3px 3px 3px 3px;
+	padding: 1px 1px 1px 1px;
+	border-style: outset outset outset outset;
+	border-color: rgb(153, 0, 0) rgb(153, 0, 0) rgb(153, 0, 0) rgb(153, 0, 0);
+	background-color: rgb(0, 0, 0);
+	-moz-border-radius: 0px 0px 0px 0px;
+}
+
+table.Capacity {
+	border-width: 0px 0px 0px 0px;
+	border-spacing: 3px;
+	border-style: none none none none;
+	border-color: blue blue blue blue;
+	border-collapse: separate;
+	background-color: rgb(0, 0, 0);
+}
+table.Capacity th {
+	border-width: 3px 3px 3px 3px;
+	padding: 5px 5px 5px 5px;
+	border-style: dotted dotted dotted dotted;
+	border-color: rgb(153, 0, 0) rgb(153, 0, 0) rgb(153, 0, 0) rgb(153, 0, 0);
+	background-color: rgb(0, 0, 0);
+	-moz-border-radius: 0px 0px 0px 0px;
+}
+table.Capacity td {
+	border-width: 3px 3px 3px 3px;
+	padding: 5px 5px 5px 5px;
+	border-style: dotted dotted dotted dotted;
+	border-color: rgb(153, 0, 0) rgb(153, 0, 0) rgb(153, 0, 0) rgb(153, 0, 0);
+	background-color: rgb(0, 0, 0);
+	-moz-border-radius: 0px 0px 0px 0px;
+}
+
+table.sample {
+	border-width: 3px 3px 3px 3px;
+	border-spacing: 3px;
+	border-style: double double double double;
+	border-color: rgb(153, 0, 0) rgb(153, 0, 0) rgb(153, 0, 0) rgb(153, 0, 0);
+	border-collapse: separate;
+	background-color: rgb(0, 0, 0);
+}
+table.sample th {
+	border-width: 1px 1px 1px 1px;
+	padding: 1px 1px 1px 1px;
+	border-style: none none none none;
+	border-color: gray gray gray gray;
+	background-color: ;
+	-moz-border-radius: 0px 0px 0px 0px;
+}
+table.sample td {
+	border-width: 1px 1px 1px 1px;
+	padding: 1px 1px 1px 1px;
+	border-style: none none none none;
+	border-color: gray gray gray gray;
+	background-color: ;
+	-moz-border-radius: 0px 0px 0px 0px;
+}
+.style1 {font-size: 36px; font-weight:bold; color: #FFFFFF}
+.style2 {font-size:18px; color: #FFFFFF; font-family:Verdana, Arial, Helvetica, sans-serif}
+.style3 {font-size: 18px; font-family:Verdana, Arial, Helvetica, sans-serif; color:#FFFFFF}
+.style4 {font-size:14px; font-family:Verdana, Arial, Helvetica, sans-serif; color: #ffffff}
+.style5 {font-size:16px; color:#ffffff; font-family:Verdana, Arial, Helvetica, sans-serif}
+.style6 {font-size:16px; color: #D4BF00; font-family:Verdana, Arial, Helvetica, sans-serif}
+.style7 {font-size:16px; color:#df8731; font-family:Verdana, Arial, Helvetica, sans-serif}
+.style8 {font-size:16px; color:#E96210; font-family:Verdana, Arial, Helvetica, sans-serif}
+.style9 {font-size:16px; color: #CC3300; font-family:Verdana, Arial, Helvetica, sans-serif}
+.style10 {font-size: 18px; color: #CC3300; font-family:Verdana, Arial, Helvetica, sans-serif}
+.style11 {font-size:16px; color: #df8731; font-family:Verdana, Arial, Helvetica, sans-serif}
+.style12 {font-size:20px; color: #ffffff; font-family:Verdana, Arial, Helvetica, sans-serif}
+.style13 {font-size: 24px; font-weight:bold; color: #FFFFFF}
+.style14 {font-size: 18px; color: #D4BF00; font-family:Verdana, Arial, Helvectica, sans-serif}
+.style15 {font-size: 14px; color: #D4BF00; font-family:Verdana, Arial, Helvetica, sans-serif}
+.style16 {font-size: 24px; font-weight:bold; color: #D4BF00}
+.style17 {color:#000}
+.style18 {font-size: 18px; color: #ffffff; font-family:Verdana, Arial, Helvetica, sans-serif}
